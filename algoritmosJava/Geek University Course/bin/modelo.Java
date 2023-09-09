@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class App {
+
+    public static void main(String[] args) {
+       //Variables
+       
+
+       //Input
+      
+
+       //Process
+       
+       //Output
+       
+
+    }
+}
